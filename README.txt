@@ -5,7 +5,7 @@ Editor for Grass(grass-planting programming language), and Grass Like Language(s
 Feature:
 * Load/Save source code file.
 ** Ctrl+O and select file, or Drag&Drop file.
-** Extension: (Grass)*.grass, (HomuHomu)*.hmhm, (ALL)*.*
+** Extension: (Grass)*.grass, (HomuHomu)*.homehome, (ALL)*.*
 
 * Use basic functions as editor : Undo(Ctrl+Z)/Redo(Ctrl+Y), Cut(Ctrl+X), Copy(Ctrl+C), Paste(Ctrl+V).
 
