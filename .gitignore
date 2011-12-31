@@ -1,0 +1,6 @@
+
+*.suo
+/GllEditor/obj
+/GllInterpreter/obj
+/Result/Debug
+/Result/Release
