@@ -190,12 +190,12 @@
 			// openFileDialogSource
 			// 
 			this.openFileDialogSource.FileName = "*.*";
-			this.openFileDialogSource.Filter = "すべて(*.*)|*.*|Grass(*.grass)|*.grass|ほむほむ(*.hmhm)|*.hmhm";
+			this.openFileDialogSource.Filter = "すべて(*.*)|*.*|Grass(*.grass)|*.grass|ほむほむ(*.homehome)|*.homehome";
 			// 
 			// saveFileDialogSource
 			// 
 			this.saveFileDialogSource.FileName = "*.*";
-			this.saveFileDialogSource.Filter = "すべて(*.*)|*.*|Grass(*.grass)|*.grass|ほむほむ(*.hmhm)|*.hmhm";
+			this.saveFileDialogSource.Filter = "すべて(*.*)|*.*|Grass(*.grass)|*.grass|ほむほむ(*.homehome)|*.homehome";
 			// 
 			// toolStripContainer1
 			// 

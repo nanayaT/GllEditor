@@ -36,7 +36,7 @@ namespace GrassLikeLanguage.Editor
         /// <summary>ファイル拡張子とルールの対応表</summary>
 		private static readonly Dictionary<string, BaseRule> _FileExtensionToRule = new Dictionary<string, BaseRule>(){
 			{".grass", new RuleGrass()},
-			{".hmhm", new RuleHomuHomu()},
+			{".homehome", new RuleHomuHomu()},
 			{".txt", new RuleGrass()},
 		};
         /// <summary>非同期処理時の同期用</summary>
